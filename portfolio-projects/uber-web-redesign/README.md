@@ -1,4 +1,7 @@
 # Uber — Rider Web Experience Redesign
+
+## Interactive visual case study
+**[Explore the live dashboard, roadmap, journey map and research register](visuals/index.html)**. Figures are synthetic and findings are unvalidated hypotheses.
 ### Independent website redesign project plan + product analytics simulation
 
 **Project:** Proposed UK rider acquisition and trip-planning journey redesign  
