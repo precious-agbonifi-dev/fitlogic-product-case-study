@@ -1,0 +1,11 @@
+{
+  "name": "speaklab-ai-mvp",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Vercel-hosted AI language practice prototype",
+  "scripts": {
+    "dev": "vercel dev",
+    "test": "node --test"
+  },
+  "engines": { "node": ">=20" }
+}
