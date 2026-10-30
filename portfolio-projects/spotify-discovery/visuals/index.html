@@ -17,5 +17,5 @@ $('journeySteps').innerHTML=P.journey.map((r,i)=>'<article class="step"><b>0'+(i
 $('researchSummary').textContent=P.researchSummary;
 $('researchRows').innerHTML=P.research.map(r=>'<article class="rowEvidence"><div class="top"><h3>'+esc(r[0])+' · '+esc(r[1])+'</h3><span class="status">'+esc(r[2])+'</span></div><p><strong>How to investigate:</strong> '+esc(r[3])+'</p><p><strong>Disconfirming / pivot signal:</strong> '+esc(r[4])+'</p></article>').join('');
 $('decisionRows').innerHTML=P.decisions.map(r=>'<article class="decision"><strong>'+esc(r[0])+'</strong><p><b>Reason:</b> '+esc(r[1])+'</p><p><b>Trade-off:</b> '+esc(r[2])+'</p><p><b>Mitigation:</b> '+esc(r[3])+'</p></article>').join('');
-$('decisionHeadline').textContent=P.decision;$('source').href='../'+P.source;
+$('decisionHeadline').textContent=P.decision;$('source').href='../README.md';
 </script></body></html>
