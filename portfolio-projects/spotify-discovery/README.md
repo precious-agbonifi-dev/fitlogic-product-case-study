@@ -1,4 +1,7 @@
 # Spotify — Discovery Lab
+
+## Interactive visual case study
+**[Explore the live dashboard, roadmap, journey map and research register](visuals/index.html)**. Figures are synthetic and findings are unvalidated hypotheses.
 ### Independent product teardown & discovery case study
 
 **My role:** Product Manager / Product Analyst (independent simulation)  
