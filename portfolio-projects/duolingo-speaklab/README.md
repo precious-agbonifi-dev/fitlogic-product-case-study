@@ -1,4 +1,7 @@
 # SpeakLab — AI-assisted Language Practice Concept
+
+## Interactive visual case study
+**[Explore the live dashboard, roadmap, journey map and research register](visuals/index.html)**. Figures are synthetic and findings are unvalidated hypotheses.
 ### Duolingo-inspired independent MVP and growth experiment
 
 **Role:** Product Manager / Product Analyst / Prototyper  
