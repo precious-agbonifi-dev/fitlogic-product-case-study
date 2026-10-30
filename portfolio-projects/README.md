@@ -10,6 +10,13 @@
 
 **[Open the designed portfolio showcase](index.html)** — download/open the HTML locally; a live public URL requires GitHub Pages configuration.
 
+## Interactive visual case studies
+- 🎧 **[Spotify — dashboard, roadmap, journey and research](spotify-discovery/visuals/index.html)**
+- 🚗 **[Uber — dashboard, roadmap, journey and research](uber-web-redesign/visuals/index.html)**
+- 🗣️ **[SpeakLab — dashboard, roadmap, journey and research](duolingo-speaklab/visuals/index.html)**
+
+The interactive charts use synthetic illustrative data. All research registers distinguish hypotheses from real findings; no participant research has yet been conducted.
+
 ## What is demonstrated
 - **PM:** framing opportunities, defending prioritisation, sequencing roadmap, managing delivery.
 - **Product analyst:** measurable funnel definitions, segmentation, event design, SQL and experimentation.
