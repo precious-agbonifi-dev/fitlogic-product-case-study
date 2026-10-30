@@ -7,6 +7,12 @@
 **Role:** Product Manager / Product Analyst / Prototyper  
 **Status:** Working **local browser prototype**; deterministic coaching simulation, NOT a live AI model, hosted product or Duolingo release.
 
+## Genuine AI-powered MVP (deployable backend)
+
+**[AI-powered application source and Vercel deployment instructions](ai-app/README.md)** · [AI interface](ai-app/index.html) · [Secure server endpoint](ai-app/api/coach.js)
+
+The new full-stack version uses a server-side OpenAI Responses API integration, structured feedback, input validation and an error-handling interface. **Live AI is not active until Vercel is deployed and an API key is configured privately.** The existing [rule-based browser demo](demo/index.html) remains available.
+
 ## The challenge
 Some language learners may feel uncomfortable speaking in realistic situations, even when they recognise vocabulary. **Hypothesis:** a low-stakes speaking preparation flow with transparent, actionable feedback will increase learner confidence and repeat practice.
 
