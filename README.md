@@ -1,5 +1,16 @@
 # FitLogic | B2C Fitness Product Case Study
 
+## Explore the wider Product & Analytics portfolio
+
+Three additional independent case studies — [Spotify discovery & product teardown](portfolio-projects/spotify-discovery/README.md), [Uber rider website redesign & SQL analysis](portfolio-projects/uber-web-redesign/README.md), and [SpeakLab: Duolingo-inspired interactive practice MVP](portfolio-projects/duolingo-speaklab/README.md) — are collected in the [portfolio hub](portfolio-projects/README.md).
+
+**[Designed HTML portfolio showcase](portfolio-projects/index.html)** · [Interactive SpeakLab demo source](portfolio-projects/duolingo-speaklab/demo/index.html)
+
+> The case studies are independent exercises with synthetic data and proposed roadmaps, not engagements with Spotify, Uber or Duolingo. SpeakLab's browser demo uses rule-based simulated coaching, not a live generative AI model.
+
+---
+
+
 **Independent product strategy & analytics portfolio project** · Concept stage · HealthTech / Consumer subscription
 
 **Role:** Product Manager / Product Analyst (independent case study)
