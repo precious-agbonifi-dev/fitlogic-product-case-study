@@ -10,6 +10,10 @@
 
 **[Open the designed portfolio showcase](index.html)** — download/open the HTML locally; a live public URL requires GitHub Pages configuration.
 
+## New: SpeakLab AI implementation
+
+[Explore secure AI-powered MVP code and deployment instructions](duolingo-speaklab/ai-app/README.md). This is functional integration code but **requires deployment, private API credentials, and live testing** before it can make real model calls.
+
 ## Interactive visual case studies
 - 🎧 **[Spotify — dashboard, roadmap, journey and research](spotify-discovery/visuals/index.html)**
 - 🚗 **[Uber — dashboard, roadmap, journey and research](uber-web-redesign/visuals/index.html)**
