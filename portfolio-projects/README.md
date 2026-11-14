@@ -1,12 +1,13 @@
 # PRODUCT / ANALYTICS / DELIVERY — Case Study Collection
 
-**Three independent portfolio projects** designed to demonstrate decision-making, trade-offs, research literacy, delivery planning and analytical fluency. None is affiliated with or sponsored by the companies mentioned.
+**Four independent portfolio projects** designed to demonstrate decision-making, trade-offs, research literacy, delivery planning and analytical fluency. None is affiliated with or sponsored by the companies mentioned.
 
 | Case study | Product challenge | What to inspect |
 | --- | --- | --- |
 | [01 • Spotify: Discovery Lab](spotify-discovery/README.md) | Help listeners act on discovery intent without adding noise | Teardown, hypotheses, research, opportunity solution tree, RICE, roadmap |
 | [02 • Uber: Rider Web Experience](uber-web-redesign/README.md) | Reduce journey-planning uncertainty on a proposed rider website redesign | Scope, WBS, dependencies, RACI, resource plan, risks, event taxonomy and SQL |
 | [03 • Duolingo-inspired: SpeakLab](duolingo-speaklab/README.md) | Make speaking practice less intimidating | [Working browser prototype](duolingo-speaklab/demo/index.html), product/AI trade-offs, experiment design |
+| [04 • Phoenix Rise](phoenix-rise/README.md) | Help women find movement and wellbeing support that fits the day | [Interactive browser prototype](phoenix-rise/index.html), cycle-optional check-ins, privacy choices and scope boundaries |
 
 **[Open the designed portfolio showcase](index.html)** — download/open the HTML locally; a live public URL requires GitHub Pages configuration.
 
@@ -28,12 +29,13 @@ The interactive charts use synthetic illustrative data. All research registers d
 - **Governance:** honest evidence labelling, decision logs and trade-offs.
 
 ### Evidence policy
-All personas, interview plans, business cases, user findings, outcomes and data are **illustrative or hypothetical** unless clearly labelled otherwise. There are no fabricated customer interviews, shipped company features or measured uplifts. SpeakLab contains a *working local prototype* with deterministic simulated coaching, **not** a live LLM integration or production deployment.
+All personas, interview plans, business cases, user findings, outcomes and data are **illustrative or hypothetical** unless clearly labelled otherwise. There are no fabricated customer interviews, shipped company features or measured uplifts. SpeakLab contains a *working local prototype* with deterministic simulated coaching, **not** a live LLM integration or production deployment. Phoenix Rise is a browser prototype with locally stored demo data, not a live health or community service.
 
 ## Portfolio map
 - [Spotify teardown](spotify-discovery/README.md) · [Research plan](spotify-discovery/research-plan.md) · [Roadmap](spotify-discovery/roadmap.md)
 - [Uber redesign project plan](uber-web-redesign/README.md) · [Delivery plan](uber-web-redesign/delivery-plan.md) · [SQL](uber-web-redesign/analytics.sql)
 - [SpeakLab AI product](duolingo-speaklab/README.md) · [Prototype](duolingo-speaklab/demo/index.html) · [A/B testing](duolingo-speaklab/experiments.md) · [Roadmap](duolingo-speaklab/roadmap.md)
+- [Phoenix Rise prototype](phoenix-rise/README.md) · [Open the app](phoenix-rise/index.html)
 
 ## Independent design exercise
 Brand names are used for critical analysis and education only. No logos or proprietary screens are copied. All proposed features are my own hypotheses.
